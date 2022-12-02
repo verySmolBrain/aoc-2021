@@ -1,0 +1,1 @@
+Attempt at aoc 2021 in rust
